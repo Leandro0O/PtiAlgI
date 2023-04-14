@@ -17,6 +17,7 @@ Tendo esta informação, conseguimos saber, na hora de abastecer, qual combustí
 A) que receba como entrada o preço da gasolina e o preço do álcool e
 informe ao usuário qual é o combustível mais vantajoso (ou se tanto faz
 abastecer qual qualquer um deles).
+
 B) Considere que depois, o programa deve perguntar ao usuário se deseja
 efetuar um novo cálculo: se u usuário confirmar que sim, o programa
 solicita as entradas novamente. Senão, o programa é encerrado
